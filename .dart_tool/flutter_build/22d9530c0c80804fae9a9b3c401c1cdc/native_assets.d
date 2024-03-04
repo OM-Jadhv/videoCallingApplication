@@ -1,0 +1,1 @@
+ C:\\Users\\omjad\\StudioProjects\\videocalling\\.dart_tool\\flutter_build\\22d9530c0c80804fae9a9b3c401c1cdc\\native_assets.yaml: 
